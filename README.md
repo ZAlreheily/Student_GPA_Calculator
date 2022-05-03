@@ -5,3 +5,4 @@ A Simple GPA calculator built using Flutter
 - Feature for adding Terms
 
 
+![Screenshot_1651618729](https://user-images.githubusercontent.com/104871180/166586450-784028a6-deb7-4e7e-a70b-a66636bd1692.png)
